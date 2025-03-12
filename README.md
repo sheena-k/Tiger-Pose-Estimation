@@ -18,8 +18,8 @@ Annotations: 12 keypoints per tiger (head, legs, tail, etc.)
 
 The YOLO-Pose model is typically trained for human pose estimation, so to get accurate results for tiger pose estimation,need to retrain or fine-tune the model using the Tiger-Pose dataset.
 
-###YOLO-Pose for tiger pose estimation  
-####Transfer learning Approach
+### YOLO-Pose for tiger pose estimation  
+#### Transfer learning Approach
 
 **Model Training**
 
